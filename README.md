@@ -38,6 +38,7 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 ### 3. Dashboard Command Sending
 <img width="1356" height="638" alt="image" src="https://github.com/user-attachments/assets/65226f74-21ad-4325-8cdb-407d4b485b8b" />
 <img width="1360" height="677" alt="image" src="https://github.com/user-attachments/assets/d6488885-96af-4357-85ec-fc84968219d2" />
+
 ### 4. Relay Status Dashboard Output
 
 ### Bulb ON → Relay ON  
